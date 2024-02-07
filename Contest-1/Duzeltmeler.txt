@@ -1,0 +1,1 @@
+Küçük Labirent Sorusundaki Örneklerde bulunan ilk satırdaki üçüncü sayılar test caselerde bulunmamaktadırlar. Hesaba katmayınız
