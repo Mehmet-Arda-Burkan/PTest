@@ -2,4 +2,8 @@ Küçük Labirent Sorusundaki Örneklerde bulunan ilk satırdaki üçüncü say�
 
 
 
+Segmentation Fault sorusundaki Degistir(b,c) fonksiyonu birden fazla sayıyı değiştirmeyebilir. (En büyük/En küçük)
+
+
+
 Her sayı 2e5'e kadardır.
